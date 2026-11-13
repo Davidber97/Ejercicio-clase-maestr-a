@@ -1,0 +1,60 @@
+/*Estilos*/
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Condensed:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,100..900;1,100..900&display=swap');
+body {
+  background-image: url(https://img.magnific.com/fotos-premium/textura-textura-grunge-fondo-beige-diseno-papel_213524-487.jpg?semt=ais_hybrid&w=740&q=80)
+}
+h1 {
+  color:#517933;
+  font-family:"Libre Caslon Condensed";
+  text-align:center;
+  background-color:#DDA0DD;
+  font-size: 44px;
+}
+h2 {
+  color:#FF69B4;
+  font-family:"Libre Caslon Condensed";
+  text-align:right;
+  font-size: 26px;
+}
+Ol {
+  color:#722F37;
+  font-family:"Aleo";
+  text-align:left;
+  font-size: 20px;
+  font-weight:bold;
+}
+img {
+  margin-left:200px;
+  margin-right:200px;
+}
+iframe {
+  margin-left:100px;
+  margin-right:200px;
+}
+a:hover {
+  background-color: yellow;
+  font-size: 28px;
+}
+Body {
+  margin-top: 100px;
+  margin-right: 200px;
+  margin-bottom: 40px;
+  margin-left: 200px;
+}
+P {
+  color:black;
+  font-family:"Libre Caslon Condensed";
+  }
+.color-verde {
+  color:green;
+  }
+.Font {
+  font-family:"Courier new";
+  }
+.Leon {
+  font-family:"Courier new";
+  }
+P.Font {
+  font-family:"Arial";
+  }
